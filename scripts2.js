@@ -22,3 +22,5 @@
         var chart = new google.visualization.PieChart(document.getElementById('donut_single'));
         chart.draw(data, options);
       }
+
+      var myVar = "Hey clawson are you mad... DONT FAIL ME ;_;";
